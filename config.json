@@ -51,10 +51,10 @@
   "sync": {
     "auto_sync": false,
     "enabled": true,
-    "last_sync": 1759920969,
+    "last_sync": 1759921259,
     "method": "git",
     "remote_url": "https://github.com/bbauer0706/aliases-config.git",
-    "sync_interval": 86400,
+    "sync_interval": 1,
     "sync_todos": "true"
   },
   "todo": {

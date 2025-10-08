@@ -1,5 +1,5 @@
 {
-  "next_id": 15,
+  "next_id": 16,
   "todos": [
     {
       "category": "",
@@ -68,6 +68,14 @@
       "description": "Test local todo",
       "id": 14,
       "priority": 2
+    },
+    {
+      "category": "",
+      "completed": false,
+      "created_at": 1759921216,
+      "description": "Unique local todo ABC123",
+      "id": 15,
+      "priority": 1
     }
   ]
 }

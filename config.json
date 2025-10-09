@@ -32,30 +32,20 @@
         "client"
       ]
     },
-    "server_paths": {
-      "urm20": "serverJava"
-    },
-    "shortcuts": {
-      "SyncroTessBcm": "tess_gui",
-      "dispatch20": "dip",
-      "mockbar": "mbar",
-      "otv20": "otv",
-      "ragnarokui": "rak",
-      "urm20": "urm"
-    },
-    "web_paths": {
-      "urm20": "urm2"
-    },
-    "workspace_directory": "~/workspaces"
+    "server_paths": {},
+    "shortcuts": {},
+    "web_paths": {},
+    "workspace_directory": "/home/bbauer/workspaces"
   },
   "sync": {
-    "auto_sync": false,
+    "auto_sync": true,
     "enabled": true,
-    "last_sync": 1759921284,
+    "last_sync": 1759997005,
+    "last_todo_sync": 1759996772,
     "method": "git",
     "remote_url": "https://github.com/bbauer0706/aliases-config.git",
-    "sync_interval": 1,
-    "sync_todos": "true"
+    "sync_interval": 60,
+    "sync_todos": true
   },
   "todo": {
     "auto_categorize": false,

@@ -61,12 +61,14 @@
     "web_paths": {
       "urm20": "urm2"
     },
-    "workspace_directory": "~/workspaces"
+    "workspace_directories": [
+      "~/workspaces"
+    ]
   },
   "sync": {
     "auto_sync": true,
     "enabled": true,
-    "last_sync": 1760002117,
+    "last_sync": 1760002462,
     "last_todo_sync": 1759996772,
     "method": "git",
     "remote_url": "https://github.com/bbauer0706/aliases-config.git",

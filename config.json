@@ -1,7 +1,6 @@
 {
   "code": {
     "fallback_behavior": "auto",
-    "ignore": [],
     "preferred_component": "server",
     "reuse_window": true,
     "vscode_flags": []
@@ -43,7 +42,10 @@
       "target",
       ".git",
       ".github",
-      ".vscode-server"
+      ".vscode-server",
+      "aliases-config",
+      "maven-repo_gb20",
+      "log_transfer_test"
     ],
     "server_paths": {
       "urm20": "serverJava"
@@ -64,7 +66,7 @@
   "sync": {
     "auto_sync": true,
     "enabled": true,
-    "last_sync": 1760001895,
+    "last_sync": 1760002117,
     "last_todo_sync": 1759996772,
     "method": "git",
     "remote_url": "https://github.com/bbauer0706/aliases-config.git",
